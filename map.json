@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/booths_tbg.json"
+                 "value":"..\/tiled_testmap\/booths_tbg.json"
                 }],
          "type":"tilelayer",
          "visible":true,
